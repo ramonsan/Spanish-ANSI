@@ -9,7 +9,7 @@ Por tanto decidí hacer un keylayout personal con mis propias preferencias. No n
 
 | Combinación de teclas       | Resultado | Descripción                                                 |
 |-----------------------------|:---------:|-------------------------------------------------------------|
-| `'` (deadkey)               | —         | Espera una vocal para añadir la tilde (ej: `'` + `a` = `á`) |
+| `´` (deadkey)               | —         | Espera una vocal para añadir la tilde (ej: `´` + `a` = `á`) |
 | `Option + '`                | `'`       | Escribe el apóstrofo recto                                  |
 | `Shift + '`                 | `"`       | Escribe la comilla doble                                    |
 | `Option + E`                | `€`       | Escribe el símbolo del euro                                 |
